@@ -235,7 +235,7 @@ namespace JobPlacementDashboard.Controllers
 As far as anything else I worked on in this project it was either deleted or commenting out code or just working on bug fixing like making sure everything worked properly.
 
 ## Conclusion
-I had learned a lot while we were doing the Live Project, it is really amazing how much you can learn from just working with others on a project that is meaningful and knowing your code is going to. And even if it wasn't going to anything, it was still an awesome experience working in a "real world" work place and working with others. 
+I had learned a lot while we were doing the Live Project, it is really amazing how much you can learn from just working with others on a project that is meaningful and knowing your code is going to something. And even if it wasn't going to anything, it was still an awesome experience working in a real world work environment and working with others. 
 
 ### Skills learned
 - Inner workings of CSHTML and making it work together.
